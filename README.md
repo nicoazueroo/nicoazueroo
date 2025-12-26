@@ -6,7 +6,7 @@ Im specialized in full stack development, especially in **UI/UX design** and hav
 ## Im specialized in...
 - Frontend & full-stack development (React, Angular)
 - Strong foundation in algorithms, AI, and computer security
-- great communication skills, love to work as a team or individual 
+- Great communication skills, love to work as a team or individual 
 
 ## Tools and frameworks that I use
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
