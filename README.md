@@ -1,6 +1,7 @@
 ## Hi there, I'm Matthew Azuero 👋
 
-I'm a 3rd year **Computer Science student** at York University and a **Software Engineer Intern at Grant Thornton**.  
+I'm a 3rd year **Computer Science student** at York University working currently @ **Practisis** as a AI software develeoper intern.
+I've also had experience as a **Software Engineer Intern at Grant Thornton**.  
 Im specialized in full stack development, especially in **UI/UX design** and have great curiosity for **AI**, **Cybersecurity**.
 
 ## Im specialized in...
