@@ -1,15 +1,8 @@
-## Hi there, I'm Matthew Azuero 👋
+## Hi there, I'm Nico :D
 
-I'm a 3rd year **Computer Science student** at York University working currently @ **Practisis** as a AI software develeoper intern.
-I've also had experience as a **Software Engineer Intern at Grant Thornton**.  
-Im specialized in full stack development, especially in **UI/UX design** and have great curiosity for **AI**, **Cybersecurity**.
+I'm a cool Computer Science student :p
 
-## Im specialized in...
-- Frontend & full-stack development (React, Angular)
-- Strong foundation in algorithms, AI, and computer security
-- Great communication skills, love to work as a team or individual 
-
-## Tools and frameworks that I use
+## Some tools that I like to use (although I end up using lots of different stuff...)
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
   <div style="display:flex;align-items:center;gap:8px;
@@ -121,6 +114,3 @@ Im specialized in full stack development, especially in **UI/UX design** and hav
 -  Email: **nicoazuero@gmail.com**
 -  LinkedIn: [linkedin.com/in/matthew-azuero](https://www.linkedin.com/in/matthew-azuero-guijarro-473669290/)
 -  Check out my Web Page! : [matthewazuero.netlify.app](https://matthewazuero.netlify.app)
-
----
-I invite you to explore my repositories and reach out if you'd like to collaborate.
