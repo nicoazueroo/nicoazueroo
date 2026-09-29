@@ -2,7 +2,7 @@
 
 I'm a cool Computer Science student at York
 
-Solving problems everyday from real organizations :D
+Solving problems everyday for the Ontario Government :D
 
 ## Feel free to reach out! 
 -  Email: **nicoazuero@gmail.com**
