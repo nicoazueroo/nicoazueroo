@@ -7,4 +7,4 @@ Solving problems everyday for the Ontario Government :D
 ## Feel free to reach out! 
 -  Email: **nicoazuero@gmail.com**
 -  LinkedIn: [linkedin.com/in/matthew-azuero](https://www.linkedin.com/in/matthew-azuero-guijarro-473669290/)
--  Check out my Web Page! : [https://nuevo-portafolio3-d.vercel.app/] (https://nuevo-portafolio3-d.vercel.app/)
+-  Check out my Web Page! : [https://nuevo-portafolio3-d.vercel.app/](https://nuevo-portafolio3-d.vercel.app/)
